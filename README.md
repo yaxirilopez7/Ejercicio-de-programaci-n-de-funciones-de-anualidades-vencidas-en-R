@@ -117,4 +117,6 @@ calcular_tasa_va_newton(80000, 10000, 10)
 
 Con estos ejemplos, espero quede mas claro la aplicacion de las formulas.
 
+De igual manera, dejo el link de mi Posit Cloud donde se encuentra mi codigo de R
 
+[Visita el link de mi Posit Cloud](https://posit.cloud/content/9038314)
